@@ -1,7 +1,4 @@
 {
-    "locations": [
-        {"url": "https://nx-retro.ghostland.at", "title": "Ghost eShop Retro NX", "action": "add"},
-        {"url": "https://nx-saves.ghostland.at", "title": "NX Shared Saves", "action": "add"}
-    ],
+    "locations": [],
     "directories": ["https://raw.githubusercontent.com/nyukuru/tinfoil/main/gift.tfl"]
 }
